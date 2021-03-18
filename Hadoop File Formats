@@ -1,0 +1,4 @@
+Basic file formats are: Text format, Key-Value format, Sequence format
+Other formats which are used and are well known are: Avro, Parquet, RC or Row-Columnar format, ORC or Optimized Row Columnar format
+
+![image](https://user-images.githubusercontent.com/36904516/111702008-e2b3b780-87f8-11eb-8968-487a43ff266d.png)
